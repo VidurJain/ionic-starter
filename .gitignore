@@ -8,3 +8,5 @@ plugins/
 .bowerrc
 .editorconfig
 .idea/
+www/js/angular-app.js
+www/js/templates.js
